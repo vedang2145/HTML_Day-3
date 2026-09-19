@@ -1,0 +1,50 @@
+ .name1{
+        padding-right: 0;
+        padding-left: 5px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        width:130px;
+        border-radius: 5px;
+        border-width: 1px;
+        margin-bottom: 7px;
+      
+      }
+
+      .name2{
+        padding-right: 0;
+        padding-left: 5px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        width:130px;
+        border-radius: 5px;
+        border-width: 1px;
+        margin-bottom: 5px;
+      
+        
+      }
+
+      .email {
+        display: block;
+        width: 270px;
+        padding-right: 0;
+        padding-left: 5px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+        border-radius: 5px;
+        border-width: 1px;
+        margin-bottom: 5px;
+        margin-bottom: 7px;
+      
+      }
+
+      .button{
+        background-color: rgb(35, 123, 240);
+        color: white;
+        border: none;
+        width: 280px;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        font-size: 18px;
+        font-weight: bold;
+        border-radius: 8px;
+      }

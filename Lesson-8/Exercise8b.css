@@ -1,0 +1,17 @@
+ .text{
+        width:200px;
+        font-size: 15px;
+        display: inline-block;
+        vertical-align: middle;
+      }
+
+      .button1{
+        vertical-align: middle;
+        display: inline-block;
+        
+      }
+
+      .button2{
+        vertical-align: middle;
+        display: inline-block;
+      }

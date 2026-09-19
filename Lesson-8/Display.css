@@ -1,0 +1,13 @@
+ .thumbnail{
+        width: 300px;
+        display: block;
+      }
+
+      .search{
+        font-size: 15px;
+        margin-left: 12px;
+      }
+
+      .text1{
+        width: 300px;
+      }
